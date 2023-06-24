@@ -1,4 +1,4 @@
-$.getJSON('https://api.github.com/repos/heysarver/msplus-ai-wallpaper/wallpapers/', function(data) {
+$.getJSON('https://api.github.com/repos/heysarver/msplus-ai-wallpaper/contents/wallpapers', function(data) {
   $.each(data, function(index, item) {
     if(item.type === 'file') {
       var imageUrl = item.download_url;
