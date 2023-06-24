@@ -1,2 +1,2 @@
-# msplus-ai-wallpaper
-AI enhanced wallpaper images from Microsoft Plus!
+# winwalls
+AI enhanced wallpaper images from Windows
